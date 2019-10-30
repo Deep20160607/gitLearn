@@ -2,4 +2,4 @@ test1
 
 dev:test2
 
-master:test1
+master:test1 feature:test1
